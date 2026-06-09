@@ -12,6 +12,9 @@ location: "Beijing, China"
 
 Practice sessions. Lecturer: [Peihang Wu](https://peihang-wu.github.io/)
 
+
+![2026.06.09](/files/2026_Spring_Math_B/photo.jpg)
+
 Notes
 ======
 [1 重积分](/files/2026_Spring_Math_B/1%20重积分.pdf)
@@ -35,3 +38,7 @@ Notes
 [10 一致收敛性](/files/2026_Spring_Math_B/10%20一致收敛性.pdf)
 
 [11 广义积分](/files/2026_Spring_Math_B/11%20广义积分.pdf)
+
+[12 含参变量积分](/files/2026_Spring_Math_B/12%20含参变量积分.pdf)
+
+[13 Fourier级数](/files/2026_Spring_Math_B/13%20Fourier级数.pdf)

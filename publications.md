@@ -11,7 +11,7 @@ author_profile: true
 ---
 * **Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots**, **Junda Ying<sup>1</sup>**, Yuxuan Wang<sup>1</sup>, Bowen Yang<sup>1</sup>, Peijie Zhou<sup>†</sup>, Lei Zhang<sup>†</sup>  
   *ICML2026 poster*, May, 2026  
-  [[Arxiv](https://arxiv.org/abs/2605.00545)] [[Openreview](https://openreview.net/forum?id=IABjbJlinz)] [[Code](https://github.com/Sirin6/USB)]
+  [[Arxiv](https://arxiv.org/abs/2605.00545)] [[Openreview](https://openreview.net/forum?id=IABjbJlinz)] [[Code](https://github.com/Sirin6/USB)] [[Poster](https://icml.cc/media/PosterPDFs/ICML%202026/64979.png?t=1780972851.9550629)]
 
 * **Geometric Quantification of Cell Phenotype Transition Manifolds with Information Geometry**, Miao Huang<sup>1</sup>, Yuxuan Wang<sup>1</sup>, **Junda Ying**, He Xiao, Haijun Zhou<sup>†</sup>, Lei Zhang<sup>†</sup>, Weikang Wang<sup>†</sup>  
   *Cell Systems*, Mar, 2026  

@@ -12,5 +12,12 @@ location: "Beijing, China"
 
 Practice sessions. Lecturer: Ruochuan Liu
 
+Practice session information
+====
+**Class number**: 21\\
+**Time**: Tuesday 18:40-20:30\\
+**Classroom**: 506, Third teaching building.\\
+**E-mail**: 2501110055@stu.pku.edu.cn
+
 Notes
 ======

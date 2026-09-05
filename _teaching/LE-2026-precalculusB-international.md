@@ -31,7 +31,7 @@ Important Exams
 
 Course plan
 ====
-Week1: 9.7 Lecture and practice session, 9.10 Lecture
+Week1: 9.7 Lecture, 9.10 Lecture (**No practice session**)
 
 Week2: 9.14 Lecture and practice session, 9.17 Lecture
 
@@ -63,7 +63,7 @@ Week14: 12.7 Lecture and practice session, 12.10 Lecture
 
 Week15: 12.14 Lecture and practice session (**Quiz6**), 12.17 Lecture
 
-Week16: 12.21 Lecture and practice session, 9.10 Lecture
+Week16: 12.21 Lecture and practice session, 12.24 Lecture
 
 After week16: **Final exam** (Time to be determined)
 
@@ -73,4 +73,8 @@ Lecture notes
 [中文版](/files/2026_Fall_precalculus_B/main.pdf)\\
 [English version](/files/2026_Fall_precalculus_B/main_en.pdf)
 
+Homeworks
+====
 
+Quizzes
+====
